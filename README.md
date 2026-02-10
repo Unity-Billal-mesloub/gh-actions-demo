@@ -1,6 +1,6 @@
 # Infracost GitHub Actions Demo
 
-See [open/closed pull requests](https://github.com/infracost/gh-actions-demo/pulls) for the demo.
+See [open/closed pull requests](https://github.com/Unity-Billal-mesloub/gh-actions-demo/pulls) for the demo.
 
 The [Infracost GitHub Actions](https://github.com/Unity-Billal-mesloub/actions) runs [Infracost](https://infracost.io) against pull requests.
 
